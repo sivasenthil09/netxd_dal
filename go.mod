@@ -1,4 +1,4 @@
-module netxd_dal
+module github.com/sivasenthil09/netxd_dal
 
 go 1.20
 
